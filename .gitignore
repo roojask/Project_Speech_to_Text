@@ -1,0 +1,11 @@
+# สั่ง ignore โฟลเดอร์โมเดลทั้งหมด
+vosk-model-en-us-0.22/
+vosk-model-*/
+
+# สั่ง ignore ไฟล์เสียงและไฟล์ใหญ่
+*.mp3
+*.wav
+*.mdl
+*.fst
+*.carpa
+*.txt
